@@ -1,14 +1,14 @@
-#  Proyecto PokeDex
+# Proyecto PokeDex
 
 Este proyecto es una aplicación web que permite a los usuarios explorar y conocer diferentes especies de Pokémon. Incluye información sobre sus habilidades, características y más.
 
-##  Plataforma de nube utilizada
+## Plataforma de nube utilizada
 
 Este proyecto fue desplegado en la plataforma **Vercel**.
 
 ---
 
-##  Creación de cuenta en Vercel
+## Creación de cuenta en Vercel
 
 A continuación, se describen los pasos realizados para crear la cuenta en la nube pública Vercel:
 
@@ -34,7 +34,7 @@ Una vez creada la cuenta, se hizo clic en **"Add New Project"** y se seleccionó
 
 ---
 
-##  Notas adicionales
+## Notas adicionales
 
 - Este archivo fue elaborado con **StackEdit**, una herramienta en línea para escribir en formato Markdown.
 - Puedes acceder a StackEdit en: [https://stackedit.io](https://stackedit.io)
