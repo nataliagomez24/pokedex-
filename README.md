@@ -1,4 +1,4 @@
-#  Proyecto PokeDex
+# Proyecto PokeDex
 
 Este proyecto es una aplicación web que permite a los usuarios explorar y conocer diferentes especies de Pokémon. Incluye información sobre sus habilidades, características y más.
 
